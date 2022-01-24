@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMICALCULATE</string>
+    <string name="text">This application is created to calculate your Body Mass Index
+    its will display your current health risk based on your weight and height. This application
+    is one of my individual project for course code MOBILE TECHNOLOGY AND DEVELOPMENT(ICT602)
+    </string>
+    <string name="text2">DEVELOPER DETAILS</string>
+</resources>
